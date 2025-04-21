@@ -1,6 +1,10 @@
-[
+[  
   {
-    "name": "Naveen's Plugin",
+    "name": "Sample Plugin",
+    "entry": "./plugins/sample-plugin/plugin.js"
+  },
+  {
+    "name": "naveen Plugin",
     "entry": "./plugins/naveen-plugin/plugin.js"
   }
 ]
