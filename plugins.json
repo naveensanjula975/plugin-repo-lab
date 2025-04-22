@@ -2,5 +2,9 @@
   {
     "name": "Sample Plugin",
     "entry": "./plugins/sample-plugin/plugin.js"
+  },
+  {
+    "name": "Master Plugin",
+    "entry": "./plugins/master-plugin/plugin.js"
   }
 ]
