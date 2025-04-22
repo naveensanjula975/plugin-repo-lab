@@ -4,6 +4,10 @@
     "entry": "./plugins/sample-plugin/plugin.js"
   },
   {
+    "name": "dev Plugin",
+    "entry": "./plugins/dev-plugin/plugin.js"
+  },
+  {
     "name": "Master Plugin",
     "entry": "./plugins/master-plugin/plugin.js"
   }
